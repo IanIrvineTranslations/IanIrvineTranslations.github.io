@@ -54,6 +54,10 @@ nav a:hover {
   text-align: center;
 }
 
+.center-header{
+  text-align: center;
+}
+
 
 main {
   max-width: 70%;
